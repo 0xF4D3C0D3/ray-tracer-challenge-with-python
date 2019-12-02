@@ -1,0 +1,6 @@
+__pycache__
+*.swp
+.idea
+*.ipynb
+.DS_Store
+*.ppm
